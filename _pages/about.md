@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
  
-<!-- <b>AI & Machine Learning Researcher</b> -->
+<b>AI & Machine Learning</b>
 
 <b>Computer Engineering graduate </b> with a full scholarship from the Institute of Engineering, Pulchowk Campus, Tribhuvan University.
 
