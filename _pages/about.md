@@ -2,36 +2,34 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://naamii.org.np'>NAAMII</a>. Jwagal Lalitpur.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Jwagal, Lalitpur</p>
+    <p>Khumalutar, Lalitpur</p>
     <p>Bagmati, Nepal</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+ 
+<b>AI & Machine Learning Researcher</b>
 
-👋 Manish Dhakal | Computer Engineer | AI & Machine Learning Specialist
+<b>Computer Engineering graduate </b> with a full scholarship from the Institute of Engineering, Pulchowk Campus, Tribhuvan University.
 
-🎓 Computer Engineering graduate with a full scholarship from the Institute of Engineering, Pulchowk Campus, Tribhuvan University.
+Former intern in <b> blockchain engineering </b> with a passion for cutting-edge technologies.
 
-💼 Former intern in blockchain engineering with a passion for cutting-edge technologies.
+Currently working as a <b>Research Assistant</b>, specializing in segmentation and object detection tasks in medical imaging.
 
-🔬 Currently working as a Research Assistant, specializing in segmentation and object detection tasks in medical imaging.
+Expertise in <b> machine learning and AI </b>, with a focus on developing innovative solutions and algorithms.
 
-🧠 Expertise in machine learning and AI, with a focus on developing innovative solutions and algorithms.
+Published a research paper on <b>speech recognition</b>  in the Nepali Language as the lead author.
 
-📚 Published a research paper on speech recognition in the Nepali Language as the lead author.
+Committed to leveraging technology to drive <b> positive change </b> and <b> improve healthcare </b> outcomes.
 
-🌟 Committed to leveraging technology to drive positive change and improve healthcare outcomes.
-
-🌐 Connect with me: manishdhakal.com.np
-
-✉️ Feel free to reach out for collaborations or inquiries.
+Feel free to reach out for <b> collaborations or inquiries </b>.

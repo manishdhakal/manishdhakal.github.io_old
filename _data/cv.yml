@@ -11,87 +11,97 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor in Computer Engineering
+      institution: Institute of Engineering Pulchowk Campus, Tribhuvan University
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Received full scholarship funded by Nepal Government.
+        - Gained knowledge about significant CS courses like Artificial Intelligence, Image Processing, Data Structure & Algorithm, Computer Programming, DBMS, Software Engineering, Theory of Computation, Computer Network & Security, Embedded System, Simulation & Modeling, Discrete Mathematics, and Operating System.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    # - title: Federal teaching diploma
+    #   institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+    #   year: 1900
+    #   description:
+    #     - Description 1.
+    #     - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Blockchain Intern
+      institution: Sireto Technology
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Wrote smart contracts in Haskell using Plutus framework for Cardano ecosystem.
+        - Updated myself with the new trends in the software industry and learn new tools and techniques that assist in the completion of the project.
+    
+    - title: Research Assistant
+      institution: NepAl Applied Mathematics and Informatics Institute for research (NAAMII)
+      year: 2022 - Present
+      description: 
+        - title: TransfOrming Global health with AI (TOGAI) group
+          contents: 
+            - Currently working for specializing in segmentation and object detection tasks in medical imaging.
+            - Medical imaging research for Low and Middle-Income Countries (LMIC)
+    #     - title: Description 3.
+    #       contents:
+    #         - Sub-description 1.
+    #         - Sub-description 2.
+    # - title: Visiting Professor
+    #   institution: California Institute of Technology, Pasadena, California, US
+    #   year: 1933
+    #   description:
+    #     - Description 1.
+    #     - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    # - title: Director
+    #   institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+    #   year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    # - title: Professor of Theoretical Physics
+    #   institution: Karl-Ferdinand University, Prague, Czechoslovakia
+    #   year: 1911 - 1917
+    #   description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/manishdhakal/SuperResolution">SR-GAN</a>
+      year: 2020
+      description: Open source implmentation of SuperResolution using GAN <a href="https://arxiv.org/abs/1609.04802"> (SRGAN)</a> in Keras framework.
+    
+    - title: <a href="https://github.com/manishdhakal/SahaYatri"> SahaYatri</a>
+      year: 2020
+      description: Hackathon project to promote toursim in Nepal developed using python and ReactJS.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2017
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - Full Scholarship in BE
+        - Nepal Government
+    # - year: 2029
+    #   items: 
+    #     - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: AI/ML
       items:
-        - Description 1.
-        - Description 2.
+        - Medical Imaging
+        - Vision Language Model
+    # - title: Topic 2.
+    #   items:
+    #     - Description 1.
+    #     - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Swimming, Trekking, and Motorcyle.
