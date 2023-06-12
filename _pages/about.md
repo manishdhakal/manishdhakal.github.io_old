@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://naamii.org.np'>NAAMII</a>. Jwagal Lalitpur.
+subtitle: <b> Research Assistant </b> @ <a href='https://naamii.org.np'>NAAMII</a>. Jwagal Lalitpur.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Khumalutar, Lalitpur</p>
+    <p>Khumaltar, Lalitpur</p>
     <p>Bagmati, Nepal</p>
 
 news: false  # includes a list of news items
@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
  
-<b>AI & Machine Learning Researcher</b>
+<!-- <b>AI & Machine Learning Researcher</b> -->
 
 <b>Computer Engineering graduate </b> with a full scholarship from the Institute of Engineering, Pulchowk Campus, Tribhuvan University.
 
