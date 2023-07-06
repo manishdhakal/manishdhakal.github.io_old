@@ -8,44 +8,32 @@
     - name: Languages
       value: Nepali, English
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Bachelor in Computer Engineering
-      institution: Institute of Engineering Pulchowk Campus, Tribhuvan University
-      year: 2022
-      description:
-        - Received full scholarship funded by Nepal Government.
-        - Gained knowledge about significant CS courses like Artificial Intelligence, Image Processing, Data Structure & Algorithm, Computer Programming, DBMS, Software Engineering, Theory of Computation, Computer Network & Security, Embedded System, Simulation & Modeling, Discrete Mathematics, and Operating System.
-        # - title: Description 3.
-        #   contents:
-        #     - Sub-description 1.
-        #     - Sub-description 2.
-    # - title: Federal teaching diploma
-    #   institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-    #   year: 1900
-    #   description:
-    #     - Description 1.
-    #     - Description 2.
-
 - title: Experience
   type: time_table
   contents:
+    - title: Research Assistant
+      institution: NepAl Applied Mathematics and Informatics Institute for research (NAAMII) <br> <i>Supervisor:</i> <a name="Bishesh Khanal, Ph.D." href="https://scholar.google.com/citations?user=ZfaUCG5h3xsC"> <u>Bishesh Khanal, Ph.D.</u> </a>
+      year: Apr. 2022 - Present
+      description:
+        - Developed skills for <b> object detection and segmentation </b> tasks on 2D medical images and explored their multi-modal approach ( esp. <b>vision-language models </b> ); also worked for segmentation with <b>3D mesh</b> data.
+        - Demonstrated <b> strong skills in writing scientific manuscripts, </b> with multiple papers submitted for review, showcasing the ability to <b> communicate methodologies, results, and implications </b> effectively. 
+        - Ensured <b> reproducibility and modularity in ML projects </b> by implementing robust methodologies and practices, allowing for the transparent and replicable programming of the projects.
+    
     - title: Blockchain Intern
       institution: Sireto Technology
-      year: 2021
+      year: Aug. 2021 - Dec. 2021
       description:
-        - Wrote smart contracts in Haskell using Plutus framework for Cardano ecosystem.
-        - Updated myself with the new trends in the software industry and learn new tools and techniques that assist in the completion of the project.
-    
-    - title: Research Assistant
-      institution: NepAl Applied Mathematics and Informatics Institute for research (NAAMII)
-      year: 2022 - Present
-      description: 
-        - title: TransfOrming Global health with AI (TOGAI) group
-          contents: 
-            - Currently working for specializing in segmentation and object detection tasks in medical imaging.
-            - Medical imaging research for Low and Middle-Income Countries (LMIC)
+        - Wrote <b> smart contracts in Haskell </b> language using the Plutus framework for the Cardano ecosystem.
+        - Improved <b>software development skills</b> by learning new tools and techniques that assist in completing the project.
+
+    - title: Co-founder
+      institution: Techniti Nepal
+      year: Sept. 2020 - Present
+      description:
+        - Co-founded Nepal-based company providing <b>software solutions</b> such as websites, electronic health record management systems, data visualization interfaces, and IoT-based  solutions as well.
+        - <b>Coordinated with clients</b> to understand their requirements and provided them with feasible and impactful solutions.
+        - Worked as a frontend developer with <b>ReactJS</b> and backend developer with <b>Django and FastAPI</b> for web applications. 
+
     #     - title: Description 3.
     #       contents:
     #         - Sub-description 1.
@@ -66,6 +54,94 @@
     #   year: 1911 - 1917
     #   description:
 
+- title: Education
+  type: time_table
+  contents:
+    - title: Bachelor in Computer Engineering
+      institution: Institute of Engineering Pulchowk Campus, Tribhuvan University
+      year: 2022
+      description:
+        - <b>Ranked 11th</b> in the engineering entrance exam, competing with nearly <b>18000 candidates</b>.
+        - Gained knowledge about <b>significant CS courses </b> like AI, Image Processing, Data Structure \& Algorithm, DBMS, Software Engineering, and so on.
+        - <i>Capstone Project:</i> Automatic speech recognition for <b>low-resourced Nepali language</b> which was later pushed for an IEEE conference under the supervision of <a name="Prof. Dr. Subarna Shakya" href="https://scholar.google.com/citations?user=ZB6i0OKaPo4C"> <u>Prof. Dr. Subarna Shakya</u> </a>.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    # - title: Federal teaching diploma
+    #   institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+    #   year: 1900
+    #   description:
+    #     - Description 1.
+    #     - Description 2.
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Lecturer
+      institution: Community Eye, ENT & Rehabilitation Center (CEERS)
+      year: June 2023 - Present
+      description:
+        - <b>Training a group of interns</b> to develop medical imaging applications with the use of ML.
+        - Instructing and guiding them about ML through activities like <b>paper reading sessions, lab and lecture sessions, and topic presentations</b>.
+
+    - title: Lab Instructor
+      institution: 4th Annual Nepal AI School (ANAIS)
+      year: May 2023 - June 2023
+      description:
+        - <b>Guided participants</b> through a <b>series of labs</b> related to neural networks, transformers, federated learning, graph neural networks, active learning, and so on.
+        - <b>Mentored three groups</b> during the 10-day <b>machine learning hackathon</b> (namely, Hack-a-Dev).
+        
+    - title: Programming Instructor
+      institution: Software Fellowship, Locus 2021
+      year: Summer 2021
+      description:
+        - Provided tutoring on <b>software development life cycle</b> and assisted participants with <b>software documentation</b> and <b>library/framework installation</b>.
+        - Taught participants about <b>API development for web development,</b> emphasizing its concepts, best practices, and usage.
+        
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    # - title: Federal teaching diploma
+    #   institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+    #   year: 1900
+    #   description:
+    #     - Description 1.
+    #     - Description 2.
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: Vision Language Segmentation Models (VLSMs) for Medical Images
+      institution: Medical Imaging
+      year: Feb. 2023 - Jun. 2023
+      description:
+        - Reported zero-shot and finetuned segmentation performance of <b>4 VLSMs</b> on <b>11 medical datasets</b> using <b>9 types of prompts</b> derived from <b>14 attributes</b>, prompts are given as text conditioning informations.
+        - Worked with <b>encoder-decoder architecture</b> to generate binary segmentation masks for VLSMs.
+        - Tested the compatibility of the VLSMs (such as <b>CLIPSeg and CRIS</b>) pre-trained for open-domain images with medical images.
+
+    - title: Object detection in 2D Orthopantomogram (OPG) Images
+      institution: Dental Imaging
+      year: Sept. 2022 - Present
+      description:
+        - Designed and developed the <b>data annotation tool</b> for object detection over 2D OPG images.
+        - Working on identification and localization of dental <b>anatomical structures and abnormalities</b> while benchmarking with existing methods like <b>YOLO, RetinaNet, RCNN, and FastRCNN</b>.
+
+    - title: Segmentation in 3D Teeth Scan
+      institution: MICCAI Challenge 2022
+      year: Summer 2022
+      description: 
+        - Learned about the representation and preprocessing of <b>3D mesh and point cloud</b> data. 
+        - Benchmarked with different 3D point cloud segmentation models such as <b>Pointnet/++ and DeltaConv</b>.
+
+- title: Technical Skills
+  type: list
+  contents:
+    - <b class="font-weight-bold"><i>Machine Learning:</i></b><b> Unimodal and multimodal (esp. vision-language model)</b> ML project structuring for detection and segmentation task while maintaining <b>reproducibility and modularity</b>; integrating <b>open source models</b> for benchmarking. Proficiency in using libraries and frameworks like <b>NumPy, Pandas, PyTorch, and TensorFlow.
+    - <b class="font-weight-bold"><i>Writing:</i></b> <b>Knowledge synthesis</b> from the existing literature, <b>writing scientific documents</b> and <b>manuscripts</b> with <b>LaTex</b>, and <b>communicating the results</b> to the community with transparency.
+    - <b class="font-weight-bold"><i>Web Development:</i></b> Competence in creating well-documented backend applications with relational databases using frameworks like <b>Django, FastAPI, and NodeJS</b>. Adept at client-side programming with <b>ReactJS</b>.
+    - <b class="font-weight-bold"><i>Remote Server:</i></b> Able to work with <b>remote Linux machines</b> for coding and project deployment using <b>SSH, Shell scripting, tmux, Nginx, and Docker</b>.
 
 - title: Open Source Projects
   type: time_table
@@ -83,8 +159,7 @@
   contents:
     - year: 2017
       items: 
-        - Full Scholarship in BE
-        - Nepal Government
+        - Undergraduate Study, Funded by the Government of Nepal
     # - year: 2029
     #   items: 
     #     - Max Planck Medal
