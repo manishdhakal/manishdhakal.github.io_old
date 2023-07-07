@@ -58,12 +58,12 @@
   type: time_table
   contents:
     - title: Bachelor in Computer Engineering
-      institution: Institute of Engineering Pulchowk Campus, Tribhuvan University
+      institution: Pulchowk Campus, Institute of Engineering, Tribhuvan University
       year: 2022
       description:
         - <b>Ranked 11th</b> in the engineering entrance exam, competing with nearly <b>18000 candidates</b>.
         - Gained knowledge about <b>significant CS courses </b> like AI, Image Processing, Data Structure \& Algorithm, DBMS, Software Engineering, and so on.
-        - <i>Capstone Project:</i> Automatic speech recognition for <b>low-resourced Nepali language</b> which was later pushed for an IEEE conference under the supervision of <a name="Prof. Dr. Subarna Shakya" href="https://scholar.google.com/citations?user=ZB6i0OKaPo4C"> <u>Prof. Dr. Subarna Shakya</u> </a>.
+        - <i>Capstone Project:</i> Automatic speech recognition for <b>low-resourced Nepali language</b> which was later pushed for an IEEE conference under the supervision of <a name="Prof. Subarna Shakya" href="https://scholar.google.com/citations?user=ZB6i0OKaPo4C"> <u>Prof. Subarna Shakya</u> </a>.
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
@@ -125,6 +125,7 @@
       institution: Dental Imaging
       year: Sept. 2022 - Present
       description:
+        - Critically analyzed the <b>literature and state-of-the-art</b> models for different segmentation and detection tasks on radiology images of dentistry and their inadequacy.
         - Designed and developed the <b>data annotation tool</b> for object detection over 2D OPG images.
         - Working on identification and localization of dental <b>anatomical structures and abnormalities</b> while benchmarking with existing methods like <b>YOLO, RetinaNet, RCNN, and FastRCNN</b>.
 
@@ -141,7 +142,7 @@
     - <b class="font-weight-bold"><i>Machine Learning:</i></b><b> Unimodal and multimodal (esp. vision-language model)</b> ML project structuring for detection and segmentation task while maintaining <b>reproducibility and modularity</b>; integrating <b>open source models</b> for benchmarking. Proficiency in using libraries and frameworks like <b>NumPy, Pandas, PyTorch, and TensorFlow.
     - <b class="font-weight-bold"><i>Writing:</i></b> <b>Knowledge synthesis</b> from the existing literature, <b>writing scientific documents</b> and <b>manuscripts</b> with <b>LaTex</b>, and <b>communicating the results</b> to the community with transparency.
     - <b class="font-weight-bold"><i>Web Development:</i></b> Competence in creating well-documented backend applications with relational databases using frameworks like <b>Django, FastAPI, and NodeJS</b>. Adept at client-side programming with <b>ReactJS</b>.
-    - <b class="font-weight-bold"><i>Remote Server:</i></b> Able to work with <b>remote Linux machines</b> for coding and project deployment using <b>SSH, Shell scripting, tmux, Nginx, and Docker</b>.
+    - <b class="font-weight-bold"><i>Remote Server:</i></b> Able to work with <b>remote Linux machines</b> for coding and project deployment using <b>SSH, shell script, tmux, Nginx, and Docker</b>.
 
 - title: Open Source Projects
   type: time_table
@@ -150,9 +151,14 @@
       year: 2020
       description: Open source implmentation of SuperResolution using GAN <a href="https://arxiv.org/abs/1609.04802"> (SRGAN)</a> in Keras framework.
     
+    - title: <a href="https://github.com/gaudelbijay/NepaliAutoCompleteAndLM">Nepali AutoComplete and LM</a>
+      year: 2020
+      description: Open source implementation of Nepali AutoComplete and Language Model using LSTM in PyTorch framework.
+
     - title: <a href="https://github.com/manishdhakal/SahaYatri"> SahaYatri</a>
       year: 2020
-      description: Hackathon project to promote toursim in Nepal developed using python and ReactJS.
+      description: Hackathon project to promote toursim in Nepal developed using Django and ReactJS.
+
 
 - title: Honors and Awards
   type: time_table
