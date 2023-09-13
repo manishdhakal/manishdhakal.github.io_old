@@ -182,7 +182,23 @@
     #     - Description 1.
     #     - Description 2.
 
-- title: Other Interests
-  type: list
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Swimming, Trekking, and Motorcyle.
+- title: References
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> Swimming, Trekking, and Motorcyle.
+    - title: Bishesh Khanal, Ph.D.
+      items:
+        - Research Director, Nepal Applied Mathematics and Informatics Institute for research (NAAMII)
+        - <a href="mailto:bishesh.khanal@naamii.org.np">bishesh.khanal@naamii.org.np</a>
+    - title: Prof. Subarna Shakya
+      items:
+        - Professor of Computer Engineering, Department of Electronics and Computer Engineering, Pulchowk Campus, Institute of Engineering, Tribhuvan University
+        - <a href="mailto:drss@ioe.edu.np">drss@ioe.edu.np</a>
+    - title: Taman Upadhaya, Ph.D.
+      items:
+        - Associate Researcher, University of California San Francisco || Adjunct Research Scientist, NepAl Applied Mathematics and Informatics Institute for research (NAAMII)
+        - <a href="mailto:taman.upadhaya@naamii.org.np">taman.upadhaya@naamii.org.np</a>
+
