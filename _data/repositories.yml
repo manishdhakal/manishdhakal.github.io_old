@@ -4,6 +4,7 @@ github_users:
 github_repos:
   - manishdhakal/ASR-Nepali-using-CNN-BiLSTM-ResNet
   - naamiinepal/synthetic-boost
+  - naamiinepal/medvlsm
   - manishdhakal/Backpropagation
   - manishdhakal/SuperResolution
   - gaudelbijay/NepaliAutoCompleteAndLM
