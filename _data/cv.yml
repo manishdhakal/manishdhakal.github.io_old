@@ -3,10 +3,12 @@
   contents:
     - name: Full Name
       value: Manish Dhakal
-    - name: Date of Birth
-      value: 14th March 1999
     - name: Languages
       value: Nepali, English
+    - name: Position
+      value: Research Assistant, <a href='https://naamii.org.np'>NAAMII</a>
+    - name: Summary
+      value: An accomplished computer engineer with experience as a Research Assistant (RA), interested in multimodal learning and continual learning, skilled in maths and programming, and adept at communicating research results to the community, contributing to advancements in artificial intelligence research
 
 - title: Experience
   type: time_table

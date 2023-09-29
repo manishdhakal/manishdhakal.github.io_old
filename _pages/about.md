@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b> Research Assistant </b> @ <a href='https://naamii.org.np'>NAAMII</a>. Jwagal Lalitpur.
+subtitle: <b> Research Assistant </b>, <a href='https://naamii.org.np'>NAAMII</a>. Jwagal Lalitpur.
 
 profile:
   align: right
