@@ -8,13 +8,13 @@
     - name: Position
       value: Research Assistant, <a href='https://naamii.org.np'>NAAMII</a>
     - name: Summary
-      value: An accomplished computer engineer with experience as a Research Assistant (RA), interested in multimodal learning and continual learning, skilled in maths and programming, and adept at communicating research results to the community, contributing to advancements in artificial intelligence research
+      value: An accomplished computer engineer with experience as a Research Assistant (RA), interested in multimodal learning, medical imaging, and continual learning, skilled in maths and programming, and adept at communicating research results to the community, contributing to advancements in artificial intelligence research.
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Assistant
-      institution: NepAl Applied Mathematics and Informatics Institute for research (NAAMII) <br> <i>Supervisor:</i> <a name="Bishesh Khanal, Ph.D." href="https://scholar.google.com/citations?user=ZfaUCG5h3xsC"> <u>Bishesh Khanal, Ph.D.</u> </a>
+      institution: Nepal Applied Mathematics and Informatics Institute for research (NAAMII) <br> <i>Supervisor:</i> <a name="Bishesh Khanal, Ph.D." href="https://scholar.google.com/citations?user=ZfaUCG5h3xsC"> <u>Bishesh Khanal, Ph.D.</u> </a>
       year: Apr. 2022 - Present
       description:
         - Developed skills for <b> object detection and segmentation </b> tasks on 2D medical images and explored their multi-modal approach ( esp. <b>vision-language models </b> ); also worked for segmentation with <b>3D mesh</b> data.
@@ -201,6 +201,6 @@
         - <a href="mailto:drss@ioe.edu.np">drss@ioe.edu.np</a>
     - title: Taman Upadhaya, Ph.D.
       items:
-        - Associate Researcher, University of California San Francisco || Adjunct Research Scientist, NepAl Applied Mathematics and Informatics Institute for research (NAAMII)
+        - Associate Researcher, University of California San Francisco || Adjunct Research Scientist, Nepal Applied Mathematics and Informatics Institute for research (NAAMII)
         - <a href="mailto:taman.upadhaya@naamii.org.np">taman.upadhaya@naamii.org.np</a>
 
