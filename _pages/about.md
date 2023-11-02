@@ -13,7 +13,7 @@ profile:
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
  
@@ -27,4 +27,4 @@ Prior to my current role, I gained valuable experience as an <b> intern in block
 
 During my undergraduate studies, our academic team worked on capstone project of automatic speech recognition for the <b> low-resourced Nepali Language </b> which was later presented at an IEEE conference.
 
-I'm currently looking for new ML/AI research opportunities. My desire to contribute to these sectors and investigate cutting-edge solutions is motivated by a sincere curiosity. I'm looking forward to relevant <b> Ph.D. programs</b> to further my education and give back to the ML/AI community.
+I'm currently looking for new ML/AI research opportunities. My desire to contribute to these sectors and investigate cutting-edge solutions is motivated by a sincere curiosity. I'm looking forward to pursuing relevant <b> graduate programs</b> to further my education and give back to the ML/AI community.
