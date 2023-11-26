@@ -2,9 +2,9 @@ github_users:
   - manishdhakal
 
 github_repos:
+  - naamiinepal/medvlsm
   - manishdhakal/ASR-Nepali-using-CNN-BiLSTM-ResNet
   - naamiinepal/synthetic-boost
-  - naamiinepal/medvlsm
   - manishdhakal/Backpropagation
   - manishdhakal/SuperResolution
   - gaudelbijay/NepaliAutoCompleteAndLM

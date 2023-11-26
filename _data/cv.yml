@@ -60,12 +60,13 @@
   type: time_table
   contents:
     - title: Bachelor in Computer Engineering
-      institution: Pulchowk Campus, Institute of Engineering, Tribhuvan University
+      institution: Pulchowk Campus, Institute of Engineering, Tribhuvan University <br> <i>Thesis Supervisor:</i> <a name=" Prof. Subarna Shakya" href="https://scholar.google.com/citations?user=ZB6i0OKaPo4C"> <u> Prof. Subarna Shakya</u> </a>
       year: 2017 - 2022
       description:
-        - <b>Ranked 11th</b> in the engineering entrance exam, competing with nearly <b>18000 candidates</b>.
-        - Gained knowledge about <b>significant CS courses </b> like AI, Image Processing, Data Structure \& Algorithm, DBMS, Software Engineering, and so on.
-        - <i>Capstone Project:</i> Automatic speech recognition for <b>low-resourced Nepali language</b> which was later pushed for an IEEE conference under the supervision of <a name="Prof. Subarna Shakya" href="https://scholar.google.com/citations?user=ZB6i0OKaPo4C"> <u>Prof. Subarna Shakya</u> </a>.
+        - <b>Ranked 11th</b> in the engineering entrance exam, competing with <b>15,000+ candidates,</b> received <b>full scholarship</b> for undergraduate study.
+        - Gained knowledge about <b>significant CS courses</b> like AI, Image Processing, Data Structure & Algorithm, DBMS, Software Engineering, and so on.
+        - <i>Thesis:</i> Automatic speech recognition for <b>low-resourced Nepali language</b> which was later presented at an IEEE conference.
+
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
@@ -174,7 +175,7 @@
   contents:
     - year: 2017
       items: 
-        - Undergraduate Study, Funded by the Government of Nepal
+        - B.E. funded by Government of Nepal.
     # - year: 2029
     #   items: 
     #     - Max Planck Medal
