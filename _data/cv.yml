@@ -80,7 +80,7 @@
 - title: Teaching
   type: time_table
   contents:
-    - title: Lecturer
+    - title: Trainer
       institution: Community Eye, ENT & Rehabilitation Center (CEERS)
       year: June 2023 - Present
       description:
@@ -115,6 +115,13 @@
 - title: Projects
   type: time_table
   contents:
+    - title: Lower Limb Segmentation
+      institution: Medical Imaging <br> <i>Supervisor:</i> <a name="Taman Upadhaya, Ph.D." href="https://scholar.google.com/citations?user=RuVA5rUAAAAJ"> <u>Taman Upadhaya, Ph.D.</u> </a>
+      year: Jul. 2023 - Sep. 2023
+      description:
+        - <b>Conducted training experiments </b> of different deep learning models on the remote server to segment three bones – knee, pelvis, and ankle – from CT scans of the lower limbs of patients.
+        - <b>Deployed a robust Python rest API </b> on the remote server for the segmentation request from a client, with a pipeline including pre-processing, inference, and post-processing steps.
+        - Ensured <b> interoperability, reproducibility, and understandability </b> of the deployed application using Docker, and well-structured documentation and comments.
     - title: Vision Language Segmentation Models (VLSMs) for Medical Images
       institution: Medical Imaging
       year: Feb. 2023 - Jun. 2023
